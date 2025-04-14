@@ -37,6 +37,9 @@ deadline: 15/4/2025
 ![image](https://github.com/user-attachments/assets/557a1ba2-0448-433f-8446-ad3b2fbf79b9)
 ## FK_MaMH_tham chiếu đến khóa chính của bảng MonHoc
 ![image](https://github.com/user-attachments/assets/3c5ea334-3dfb-4fe3-8b71-51aea0f0792e)
+## Các bảng FK của bảng TKB
+![image](https://github.com/user-attachments/assets/50d04913-858c-4928-bb5a-46d16623f591)
+
 ## Điền thông tin cho bảng GV 
 ![image](https://github.com/user-attachments/assets/925b7337-fef5-4735-9647-ba478b7ea5f2)
  ## Thông tin cho bảng LHP
