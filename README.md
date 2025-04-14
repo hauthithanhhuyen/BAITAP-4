@@ -1,5 +1,27 @@
 # BAITAP-4
 HAU THANH HUYEN_BTAP 4_TKB
+bai tap 4: (sql server)
+## yêu cầu bài toán:
+ - Tạo csdl cho hệ thống TKB (đã nghe giảng, đã xem cách làm)
+ - Nguồn dữ liệu: TMS.tnut.edu.vn
+ - Tạo các bảng tuỳ ý (3nf)
+ - Tạo được query truy vấn ra thông tin gồm 4 cột: họ tên gv, môn dạy, giờ vào lớp, giờ ra.
+   trả lời câu hỏi: trong khoảng thời gian từ datetime1 tới datetime2 thì có những gv nào đang bận giảng dạy.
+
+các bước thực hiện:
+1. Tạo github repo mới: đặt tên tuỳ ý (có liên quan đến bài tập này)
+2. tạo file readme.md, edit online nó:
+   paste những ảnh chụp màn hình
+   gõ text mô tả cho ảnh đóm
+
+Gợi ý:
+  sử dung tms => dữ liệu thô => tiền xử lý => dữ liệu như ý (3nf)
+  tạo các bảng với struct phù hợp
+  insert nhiều rows từ excel vào cửa sổ edit dữ liệu 1 table (quan sát thì sẽ làm đc)
+deadline: 15/4/2025
+# Lọc giáo viên trong  nguồn dữ liệu: TMS.tnut.edu.
+![image](https://github.com/user-attachments/assets/3ad0804f-5d39-48ea-94a4-feb5869f372f)
+
 ## TẠO BẢNG GV ,thiết lập luôn khoá chính cho bảng là MaGV
 ![image](https://github.com/user-attachments/assets/bea50191-dd53-4202-aea9-3ae99dddc0cf)
 ## Tạo Bảng MonHoc,thiết lập khóa chính là MaMon
